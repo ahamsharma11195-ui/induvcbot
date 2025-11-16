@@ -1,0 +1,13 @@
+pytube 
+pillow
+spotipy 
+aiohttp 
+aiofiles 
+pyrogram 
+tgcrypto 
+pythondotenv 
+pytgcalls==0.8.1rc1 
+youtubesearchpython 
+git+https:github.comasmsafonedownloader   
+  pip install python-socks
+
