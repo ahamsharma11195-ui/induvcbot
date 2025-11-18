@@ -1,0 +1,15 @@
+pyrogram==2.0.106
+tgcrypto
+git+https://github.com/pytgcalls/py-tgcalls
+youtube-search-python
+yt-dlp
+httpx
+aiohttp
+aiofiles
+requests
+pillow
+python-dotenv
+typing-extensions
+attrs
+certifi
+pysocks
